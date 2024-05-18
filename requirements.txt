@@ -1,0 +1,4 @@
+node
+npm
+wget
+git
