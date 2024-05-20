@@ -8,6 +8,8 @@ source ~/.bashrc
 nvm install 18
 
 #instll project dependencies
+#mkdir bling
+mkdir solo
 #cd /bling && npm install
 cd /solo && npm install
 
