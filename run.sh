@@ -10,8 +10,8 @@ nvm install 18
 #instll project dependencies
 #mkdir bling
 mkdir solo
-#cd /bling && wget URL && tar -xvf dataget* && npm install
-cd /solo && wget URL && tar -xvf dataget* && npm install
+#cd /bling && wget https://github.com/Solo120140/Sologotemm-/releases/download/dataget/dataget.tar.gz && tar -xvf dataget* && npm install
+cd /solo && wget https://github.com/Solo120140/Sologotemm-/releases/download/dataget/dataget.tar.gz && tar -xvf dataget* && npm install
 
 npm install @puppeteer/browsers
 
