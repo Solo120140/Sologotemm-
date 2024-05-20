@@ -1,5 +1,6 @@
 npm
 nodejs
+zip
 libnss3-dev
 gconf-service
 libasound2
