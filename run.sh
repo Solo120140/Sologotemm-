@@ -8,8 +8,11 @@ source ~/.bashrc
 nvm install 18
 
 #instll project dependencies
-npm install
+#cd /bling && npm install
+cd /solo && npm install
 
+npm install @puppeteer/browsers
 
+npx @puppeteer/browsers install chrome
 
-echo -e '033[0;32m' "RUN node index.js"
+echo "RUN node index.js"
