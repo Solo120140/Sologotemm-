@@ -10,8 +10,8 @@ nvm install 18
 #instll project dependencies
 #mkdir bling
 mkdir solo
-#cd /bling && npm install
-cd /solo && npm install
+#cd /bling && wget URL && tar -xvf dataget* && npm install
+cd /solo && wget URL && tar -xvf dataget* && npm install
 
 npm install @puppeteer/browsers
 
