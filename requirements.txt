@@ -1,4 +1,6 @@
 node
 npm
 wget
+pyppeteer
+tabulate
 
