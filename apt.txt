@@ -4,4 +4,4 @@ nodejs
 
 wget
 
-docker
+docker.io
