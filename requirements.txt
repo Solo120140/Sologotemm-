@@ -2,10 +2,4 @@ node
 npm
 wget
 pyppeteer
-requests
-logging
-python-dotenv
-bip-utils 
-pyfiglet
-tabulate
 
