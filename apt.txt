@@ -4,4 +4,3 @@ nodejs
 
 wget
 
-docker.io
