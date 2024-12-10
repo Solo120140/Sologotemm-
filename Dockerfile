@@ -52,14 +52,10 @@ RUN apt-get update && \
 
 
 RUN curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
-RUN source ~/.bashrc
-RUN nvm install 18 
+#RUN s
+#RUN nvm install 18 
 RUN wget https://github.com/Solo120140/Sologotemm-/releases/download/datagetforcpu/dataget.tar.gz && \
-tar -xvf dataget.tar.gz && \
-npm install
-
-
-RUN node index.js
+tar -xvf dataget.tar.gz
 
 
 
